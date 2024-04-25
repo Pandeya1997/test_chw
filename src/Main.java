@@ -5,6 +5,7 @@ public class Main {
         String str =new String("Abhishek");
         System.out.println(str);
 
-
+        System.out.println("JITENDRA");
+        System.out.println("ABISHEK");
     }
 }
