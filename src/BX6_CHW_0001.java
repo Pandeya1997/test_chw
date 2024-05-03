@@ -18,6 +18,7 @@ public class BX6_CHW_0001 {
           }
 
        */
+        
 
         Scanner s = new Scanner(System.in);
         System.out.print("Enter a number : ");
